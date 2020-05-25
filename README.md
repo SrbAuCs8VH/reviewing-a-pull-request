@@ -1,7 +1,7 @@
 ## Welcome to awesome game of Tetris
 
 # Banana Cream Pie Tetris
-A project based learning activity for people who are getting started with Git and GitHub.
+You can play the game at: https://SrbAuCs8VH.github.io/github-games/
 
 To play the game:
 1. Go to the **Settings** tab of this repository.
